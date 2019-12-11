@@ -55,4 +55,6 @@ java的常见类型转换
          System.out.println(c-'0');     //此处也可以为c-48
          int d=5;
          System.out.println((char)(d+'0'));    //此处也可以为c+48
+         
  '''
+@override 子类重写了父类的方法
