@@ -22,7 +22,7 @@ LinkedList 是链表的操作
 
 java的常见类型转换
 
-'''
+
 
     //Int型数字转换成String
           int num1=123456;
@@ -56,5 +56,6 @@ java的常见类型转换
          int d=5;
          System.out.println((char)(d+'0'));    //此处也可以为c+48
          
- '''
+ 
+ 
 @override 子类重写了父类的方法
