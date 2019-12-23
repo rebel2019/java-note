@@ -58,9 +58,9 @@ java的常见类型转换
          
  
  
-@override 子类重写了父类的方法
-应该坚持使用，养成编程习惯
- Java 的 JSON 处理器 fastjson
+@override 子类重写了父类的方法应该坚持使用，养成编程习惯
+
+Java 的 JSON 处理器 fastjson
 
 fastjson 是一个性能很好的 Java 语言实现的 JSON 解析器和生成器，来自阿里巴巴的工程师开发。
 
